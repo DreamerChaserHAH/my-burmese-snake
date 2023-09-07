@@ -42,3 +42,9 @@ string_list_for - looping through a list of string
 all_string_functions - all available functions of string
 basic - basic string operation
 in_as_logical_operator - use in instead of contains
+#### Files
+read_file.py -> basic read file
+read_file2.py -> Additional concept
+#### Dictionaries
+data_counter.py -> count data
+more_complex_data_counter -> read from inputted text file
