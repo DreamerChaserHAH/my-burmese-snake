@@ -25,3 +25,6 @@ basic_arithmetic - basic maths
 simple_if - just if
 advanced_if - if/elif/else
 try_except - using try and except to handle exceptions
+#### Functions
+basic_function - void function
+return_function - function that returns a value
