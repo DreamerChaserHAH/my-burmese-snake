@@ -28,3 +28,8 @@ try_except - using try and except to handle exceptions
 #### Functions
 basic_function - void function
 return_function - function that returns a value
+#### While Loops
+basic_while - basic while loop
+infinite_loop - True condition never exits
+loop_break - implementation of break
+loop_continue - continue + break
