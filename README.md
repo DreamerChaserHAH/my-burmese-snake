@@ -24,3 +24,4 @@ basic_arithmetic - basic maths
 #### Conditional Statements
 simple_if - just if
 advanced_if - if/elif/else
+try_except - using try and except to handle exceptions
