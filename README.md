@@ -33,3 +33,8 @@ basic_while - basic while loop
 infinite_loop - True condition never exits
 loop_break - implementation of break
 loop_continue - continue + break
+#### Definite Loops
+find_max - find the max
+loop_through_the_string - loop through each character
+simple_for - simple for usuage
+string_list_for - looping through a list of string
