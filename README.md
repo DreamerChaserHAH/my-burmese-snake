@@ -21,3 +21,6 @@ This section of the document will be updated to reflect my learning journey.
 #### Hello World!
 hello_world.py - hello world program
 basic_arithmetic - basic maths
+#### Conditional Statements
+simple_if - just if
+advanced_if - if/elif/else
