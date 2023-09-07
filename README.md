@@ -38,3 +38,7 @@ find_max - find the max
 loop_through_the_string - loop through each character
 simple_for - simple for usuage
 string_list_for - looping through a list of string
+#### String Operations
+all_string_functions - all available functions of string
+basic - basic string operation
+in_as_logical_operator - use in instead of contains
