@@ -18,5 +18,6 @@ Well, my college is asking us to work on some group projects using python. And I
 This section of the document will be updated to reflect my learning journey.
 
 ### Basic Syntax
-
+#### Hello World!
 hello_world.py - hello world program
+basic_arithmetic - basic maths
